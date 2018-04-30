@@ -7,6 +7,7 @@ using UnityEngine.UI;
 
 /**
  * Created by Nicolas RAYMOND
+ * Script de gestion des boutons de l'interface
  */
 public class ButtonManager : MonoBehaviour {
 
